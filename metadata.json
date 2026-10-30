@@ -1,0 +1,6 @@
+{
+  "name": "KrishiMitra – Smart Agriculture Portal",
+  "description": "An intelligent agriculture advisory and farmer support portal featuring AI crop recommendations, plant disease detection, live mandi market prices, weather forecasts, fertilizer calculator, government schemes, and expert consultation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
